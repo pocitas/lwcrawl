@@ -1,15 +1,15 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Gulp: default",
-      "type": "shell",
-      "command": "gulp",
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "problemMatcher": []
-    }
-  ]
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Gulp: default",
+			"type": "shell",
+			"command": "gulp",
+			"group": {
+			"kind": "build",
+			"isDefault": true
+		},
+			"problemMatcher": []
+		}
+	]
 }
